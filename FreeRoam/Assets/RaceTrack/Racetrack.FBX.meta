@@ -1,0 +1,259 @@
+fileFormatVersion: 2
+guid: 87048c2355be3f9429118258f50a4092
+timeCreated: 1503578508
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box03
+    100002: Cylinder01
+    100004: Cylinder02
+    100006: Door
+    100008: f
+    100010: f01
+    100012: f02
+    100014: f03
+    100016: Ground
+    100018: Inset
+    100020: Molding
+    100022: Office Building 1
+    100024: Office Building 2
+    100026: Office Building 3
+    100028: Outside
+    100030: Pic
+    100032: PlotFarm
+    100034: RaceTrack
+    100036: //RootNode
+    100038: Roof
+    100040: RoofVent
+    100042: roofVent_Door
+    100044: Shop 2
+    100046: Shop 3
+    100048: Skyscraper 1
+    100050: Skyscraper 2
+    100052: Skyscraper 3
+    100054: Skyscraper 4
+    100056: Skyscraper 5
+    100058: Skyscraper 6
+    100060: Skyscraper 7
+    100062: Stoop
+    100064: Store 1
+    100066: topvent
+    100068: Window
+    100070: Window01
+    100072: Windows
+    400000: Box03
+    400002: Cylinder01
+    400004: Cylinder02
+    400006: Door
+    400008: f
+    400010: f01
+    400012: f02
+    400014: f03
+    400016: Ground
+    400018: Inset
+    400020: Molding
+    400022: Office Building 1
+    400024: Office Building 2
+    400026: Office Building 3
+    400028: Outside
+    400030: Pic
+    400032: PlotFarm
+    400034: RaceTrack
+    400036: //RootNode
+    400038: Roof
+    400040: RoofVent
+    400042: roofVent_Door
+    400044: Shop 2
+    400046: Shop 3
+    400048: Skyscraper 1
+    400050: Skyscraper 2
+    400052: Skyscraper 3
+    400054: Skyscraper 4
+    400056: Skyscraper 5
+    400058: Skyscraper 6
+    400060: Skyscraper 7
+    400062: Stoop
+    400064: Store 1
+    400066: topvent
+    400068: Window
+    400070: Window01
+    400072: Windows
+    2300000: Box03
+    2300002: Cylinder01
+    2300004: Cylinder02
+    2300006: Door
+    2300008: f
+    2300010: f01
+    2300012: f02
+    2300014: f03
+    2300016: Ground
+    2300018: Inset
+    2300020: Molding
+    2300022: Office Building 1
+    2300024: Office Building 2
+    2300026: Office Building 3
+    2300028: Outside
+    2300030: Pic
+    2300032: PlotFarm
+    2300034: RaceTrack
+    2300036: Roof
+    2300038: RoofVent
+    2300040: roofVent_Door
+    2300042: Shop 2
+    2300044: Shop 3
+    2300046: Skyscraper 1
+    2300048: Skyscraper 2
+    2300050: Skyscraper 3
+    2300052: Skyscraper 4
+    2300054: Skyscraper 5
+    2300056: Skyscraper 6
+    2300058: Skyscraper 7
+    2300060: Stoop
+    2300062: Store 1
+    2300064: topvent
+    2300066: Window
+    2300068: Window01
+    2300070: Windows
+    3300000: Box03
+    3300002: Cylinder01
+    3300004: Cylinder02
+    3300006: Door
+    3300008: f
+    3300010: f01
+    3300012: f02
+    3300014: f03
+    3300016: Ground
+    3300018: Inset
+    3300020: Molding
+    3300022: Office Building 1
+    3300024: Office Building 2
+    3300026: Office Building 3
+    3300028: Outside
+    3300030: Pic
+    3300032: PlotFarm
+    3300034: RaceTrack
+    3300036: Roof
+    3300038: RoofVent
+    3300040: roofVent_Door
+    3300042: Shop 2
+    3300044: Shop 3
+    3300046: Skyscraper 1
+    3300048: Skyscraper 2
+    3300050: Skyscraper 3
+    3300052: Skyscraper 4
+    3300054: Skyscraper 5
+    3300056: Skyscraper 6
+    3300058: Skyscraper 7
+    3300060: Stoop
+    3300062: Store 1
+    3300064: topvent
+    3300066: Window
+    3300068: Window01
+    3300070: Windows
+    4300000: Office Building 1
+    4300002: Store 1
+    4300004: Box03
+    4300006: Pic
+    4300008: Outside
+    4300010: Molding
+    4300012: Inset
+    4300014: Roof
+    4300016: Windows
+    4300018: Door
+    4300020: Stoop
+    4300022: Window
+    4300024: Window01
+    4300026: f
+    4300028: f01
+    4300030: f02
+    4300032: f03
+    4300034: RoofVent
+    4300036: roofVent_Door
+    4300038: topvent
+    4300040: Ground
+    4300042: Shop 2
+    4300044: Skyscraper 1
+    4300046: Skyscraper 2
+    4300048: Skyscraper 3
+    4300050: Skyscraper 4
+    4300052: Shop 3
+    4300054: Office Building 2
+    4300056: Skyscraper 5
+    4300058: Skyscraper 6
+    4300060: Office Building 3
+    4300062: Skyscraper 7
+    4300064: Cylinder01
+    4300066: Cylinder02
+    4300068: PlotFarm
+    4300070: RaceTrack
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
